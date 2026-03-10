@@ -16,7 +16,7 @@ dependencies:
   markdown: ^7.3.0
   markdown_widget: ^2.3.2+8
   flutter_highlighter: ^0.1.1
-  font_awesome_flutter: ^10.12.0
+  font_awesome_flutter: ">=10.12.0 <12.0.0"
   fl_chart: ^1.1.1
   mime: ^2.0.0
   web: ^1.1.1
